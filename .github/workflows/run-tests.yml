@@ -20,5 +20,9 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
 
+      # Добавляем права на выполнение файла gradlew
+      - name: Make gradlew executable
+        run: chmod +x gradlew
+
       - name: Run Tests
         run: ./gradlew test
