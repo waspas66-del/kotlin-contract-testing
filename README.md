@@ -135,3 +135,7 @@ tightly coupled single-team systems
 Full breakdown, real-world patterns, and deeper explanation:
 
 👉 https://krun.pro/kotlin-testing/
+
+<a href="https://prozillavpn.com/">купить VPN</a> 
+
+[url=https://rai.co.il/category/bdsm-haifa/]כאן[/url]
