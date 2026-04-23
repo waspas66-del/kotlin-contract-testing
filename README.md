@@ -136,6 +136,6 @@ Full breakdown, real-world patterns, and deeper explanation:
 
 👉 https://krun.pro/kotlin-testing/
 
-<a href="https://prozillavpn.com/">купить VPN</a> 
+Author: Krun Dev — software engineer and systems analyst focused on backend architecture, distributed systems, and API reliability in modern microservice environments.
 
-[url=https://rai.co.il/category/bdsm-haifa/]כאן[/url]
+He works on analyzing production failures, improving service-to-service communication patterns, and researching practical approaches to testing and deployment safety in cloud-native systems.
